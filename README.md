@@ -1,2 +1,4 @@
-# Pronto_PM
-Exporting Pronto PM to Excel
+# About
+
+This is a Python library for exporting Pronto PM files to MS Excel.
+
